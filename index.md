@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Tutorial de pages
 
-I'm glad you are here. I plan to talk about ...
+a ver que se aprende aqui
